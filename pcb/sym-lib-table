@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "nice_nano")(type "KiCad")(uri "/Users/byran/Documents/PCB Libraries/nice_nano/nice_nano.kicad_sym")(options "")(descr ""))
+  (lib (name "S2B-PH-SM4-TB_LF__SN_")(type "KiCad")(uri "/Users/byran/Documents/PCB Libraries/S2B-PH-SM4-TB_LF__SN_/S2B-PH-SM4-TB_LF__SN_.kicad_sym")(options "")(descr ""))
+)
