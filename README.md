@@ -33,4 +33,4 @@ Because nobody has done such thing yet. I have always wanted a simple-looking, c
 # License
 Unless stated otherwise, the parts are licensed under the MIT Licesnse. Parts that are identified as (GPL) are licensed under the GPLv3 License.
 
-* The nice!nano v2 is used in this design. It has 3 extra pins in the center of the PCB, one of which the ByranTK-Alpha utilizes
+\* The nice!nano v2 is used in this design. It has 3 extra pins in the center of the PCB, one of which the ByranTK-Alpha utilizes
