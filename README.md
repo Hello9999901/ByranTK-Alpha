@@ -7,3 +7,6 @@
 ![](images/pcb.png)
 
 ![](images/caseWpcb.png)
+
+# License
+Unless stated otherwise, the parts are licensed under the MIT Licesnse. Parts that are identified as (GPL) are licensed under the GPLv3 License.
