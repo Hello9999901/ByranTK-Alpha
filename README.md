@@ -1,6 +1,9 @@
 # ByranTK-Alpha
 
-## The ByranTK-Alpha is an 80 key custom mechanical keyboard, designed to be made with aluminum. It has, as I like to say "every key you want, none of the keys you don't"
+*The ByranTK-Alpha is an 80 key custom mechanical keyboard, designed to be made with any material.*
+<br>
+<br>
+*"All the keys you need and no more."*
 
 # What is it:
 The ByranTK-Alpha is an ongoing open-source keyboard project. It is extremely simple and utilizes a nice!nano from Nice Keyboards as the microcontroller. The battery life is estimated to be around 3 months of continuous useage (varies extremely depending on battery capacity). The keyboard is designed in KiCAD and FreeCAD, with the renders made with Blender.
@@ -11,7 +14,8 @@ The ByranTK-Alpha is an ongoing open-source keyboard project. It is extremely si
  - Wireless First
  - Split Spacebar
  - Low Profile
- - Hotswap
+ - Hotswap Sockets
+ - South facing (supports cherry profile)
  - Exploded 75% (ish) layout
  - Customizeable
 
