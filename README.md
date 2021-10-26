@@ -5,6 +5,8 @@
 <br>
 *"All the keys you need and no more."*
 
+### This is an untested prototype. This is not verified to work yet. I am currently in the process of making the first physical prototype.
+
 # What is it:
 The ByranTK-Alpha is an ongoing open-source keyboard project. It is extremely simple and utilizes a nice!nano from Nice Keyboards as the microcontroller. The battery life is estimated to be around 3 months of continuous useage (varies extremely depending on battery capacity). The keyboard is designed in KiCAD and FreeCAD, with the renders made with Blender.
 
