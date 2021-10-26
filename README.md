@@ -25,9 +25,9 @@ Because nobody has done such thing yet. I have always wanted a simple-looking, c
 # Image Gallery
 (subject to change as design alters)
 <div style="display: flex;">
-<img src="images/case.png" style="width: 33%; height: auto">
-<img src="images/pcb.png" style="width: 33%; height: auto">
-<img src="images/caseWpcb.png" style="width: 33%; height: auto">
+<img src="images/case.jpeg" style="width: 33%; height: auto">
+<img src="images/pcb.jpeg" style="width: 33%; height: auto">
+<img src="images/caseWpcb.jpeg" style="width: 33%; height: auto">
 </div>
 
 # License
