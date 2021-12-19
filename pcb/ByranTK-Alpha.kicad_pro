@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.2,
-          "height": 4.4,
-          "width": 4.4
+          "drill": 0.0,
+          "height": 2.5,
+          "width": 2.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -69,6 +69,7 @@
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
+        "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
@@ -87,6 +88,7 @@
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
+        "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
         "track_width": "error",
@@ -368,7 +370,7 @@
       }
     ],
     "meta": {
-      "version": 1
+      "version": 2
     },
     "net_colors": null
   },
@@ -378,7 +380,7 @@
       "idf": "",
       "netlist": "ByranTK-Alpha.net",
       "specctra_dsn": "ByranTK-Alpha.dsn",
-      "step": "ByranTK-Alpha.step",
+      "step": "../../../Downloads/ByranTK-Alpha.step",
       "vrml": "ByranTK-Alpha.wrl"
     },
     "page_layout_descr_file": ""
@@ -417,7 +419,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "empty.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
@@ -430,5 +432,17 @@
       ""
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "ADDRESS1": "",
+    "ADDRESS2": "",
+    "ADDRESS3": "",
+    "ADDRESS4": "",
+    "DOCUMENTNUMBER": "",
+    "DOCUMENTSIZE": "A4",
+    "DRAWNBY": "RUBR",
+    "ORGANIZATION": "",
+    "PCANAME": "nRF52840-QIAA Ref. Layout (LDO only, VDD supply)",
+    "PROJECTNUMBER": "",
+    "SHEETTOTAL": "1"
+  }
 }

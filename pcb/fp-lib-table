@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name "nice_nano")(type "KiCad")(uri "/Users/byran/Documents/PCB Libraries/nice_nano/nice_nano.pretty")(options "")(descr ""))
-  (lib (name "MX_Only")(type "KiCad")(uri "/Users/byran/Documents/PCB Libraries/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
-  (lib (name "S2B-PH-SM4-TB_LF__SN_")(type "KiCad")(uri "/Users/byran/Documents/PCB Libraries/S2B-PH-SM4-TB_LF__SN_")(options "")(descr ""))
-  (lib (name "BYRANTECHLOGO")(type "KiCad")(uri "/Users/byran/Documents/PCB Libraries/BYRANTECHLOGO.pretty")(options "")(descr ""))
-)
