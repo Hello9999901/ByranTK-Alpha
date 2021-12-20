@@ -33,6 +33,21 @@ Because nobody has done such thing yet. I have always wanted a simple-looking, c
 <img src="images/caseWpcb.jpeg" style="width: 33%; height: auto">
 </div>
 
+# Build Guide
+### This build guide is very vague and will be improved on in the near future
+1. Order all the parts
+   - I ordered everything off of JLCPCB, with SMT assembly for the diodes because I'm lazy. The pick and place/bom files are in the bom folder, ready for upload to JLCPCB. It is highly suggested you use SMT assembly because it is extremely cheap and saves a lot of time.
+2. Solder it all together
+   - Solder on the hotswap sockets and the nice!nano. This will take a while (perhaps an hour or two) depending on your soldering experience. Note that if you choose not to use SMT assembly on the PCB, the diodes will be very hard to solder. I socketed the nice!nano using Swiss machine pins off of Adafruit.
+3. Build and flash the firmware onto the nice!nano
+   - Build the firmware and put the nice!nano into bootloader mode (short GND and RST twice in rapid succession). Drag the UF2 file into the nice!nano "storage device".
+5. Laser cut the case
+   - This step is pretty self explanatory. The plate must be 1.5mm (+- 0.1mm). The rest can be any height as long as when everything is stacked together, it is taller than 15mm, and the height between the bottom of the plate and the top of the bottom pice is taller than 12mm.
+7. Put everything together
+   - Glue it, screw it together, I don't really know. Just make sure the entire thing fits. Plug in the battery (you might need to switch the battery wiring to make sure the GND goes into GND and RAW goes into RAW). You don't need screws to make this thing work; the hotswap sockets and the plate should hold itself together. Get some 5mm foam and put it as dampener under the PCB. Make sure to keep the battery isolated when dampening so it doesn't short/blow up.
+9. Use it
+   - You've made it! Congrats! Customize the keymap, change the case material, it's all up to you. That's the beauty of open source hardware and software. I hope you enjoy the ByranTK-Alpha.
+
 # License
 Unless stated otherwise, the parts are licensed under the MIT Licesnse. Parts that are identified as (GPL) are licensed under the GPLv3 License.
 
