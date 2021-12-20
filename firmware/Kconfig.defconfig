@@ -1,0 +1,6 @@
+if SHIELD_BTK_ALPHA
+
+config ZMK_KEYBOARD_NAME
+    default "ByranTK Alpha"
+
+endif
