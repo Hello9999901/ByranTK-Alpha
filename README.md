@@ -6,7 +6,7 @@
 *"All the keys you need and no more."*
 
 ### V1.1 is confirmed to be working with firmware from https://github.com/Hello9999901/zmk-btk-alpha
-### Currently designing case and plate
+### Currently designing case and plate (uploaded but not tested)
 
 # What is it:
 The ByranTK-Alpha is an ongoing open-source keyboard project. It is extremely simple and utilizes a nice!nano from Nice Keyboards as the microcontroller. The battery life is estimated to be around 3 months of continuous useage (varies extremely depending on battery capacity). The keyboard is designed in KiCAD and FreeCAD, with the renders made with Blender.
