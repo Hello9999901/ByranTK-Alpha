@@ -1,5 +1,8 @@
 # ByranTK-Alpha
 
+# Note: New 3D Printed Version of the case is soon coming (currently in prototyping stage). (below)
+> Will post soon. It will be alongside the lasercut files. Both should work and offer flexibility to the end user, further reaffirming that this is a keyboard to be "made with any material".
+
 *The ByranTK-Alpha is an 80 key custom mechanical keyboard, designed to be made with any material.*
 <br>
 <br>
