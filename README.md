@@ -59,9 +59,10 @@ Because nobody has done such thing yet. I have always wanted a simple-looking, c
 2. Solder it all together
    - Solder on the hotswap sockets and the nice!nano. This will take a while (perhaps an hour or two) depending on your soldering experience. Note that if you choose not to use SMT assembly on the PCB, the diodes will be very hard to solder. I socketed the nice!nano using Swiss machine pins off of Adafruit.
 3. Build and flash the firmware onto the nice!nano
-   - Build the firmware and put the nice!nano into bootloader mode (short GND and RST twice in rapid succession). Drag the UF2 file into the nice!nano "storage device".
+   - Build the firmware and put the nice!nano into bootloader mode (short GND and RST twice in rapid succession). Drag the UF2 file into the nice!nano "storage device". The firmware can be made with my zmk-config directory.
 4. Laser cut the case
    - This step is pretty self explanatory. The plate must be 1.5mm (+- 0.1mm). The rest can be any height as long as when everything is stacked together, it is taller than 15mm, and the height between the bottom of the plate and the top of the bottom pice is taller than 12mm.
+   - Alternatively, you can 3D print the case. I decided to 3D print because it was faster to prototype.
 5. Put everything together
    - Glue it, screw it together, I don't really know. Just make sure the entire thing fits. Plug in the battery (you might need to switch the battery wiring to make sure the GND goes into GND and RAW goes into RAW). You don't need screws to make this thing work; the hotswap sockets and the plate should hold itself together. Get some 5mm foam and put it as dampener under the PCB. Make sure to keep the battery isolated when dampening so it doesn't short/blow up.
 6. Use it
