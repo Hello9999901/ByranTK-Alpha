@@ -8,7 +8,7 @@
 <br>
 *"All the keys you need and no more."*
 
-### V1.1 is confirmed to be working with firmware from https://github.com/Hello9999901/zmk-btk-alpha
+### V1.1 is confirmed to be working with firmware from https://github.com/Hello9999901/zmk-config
 ### Currently designing case and plate (uploaded but not tested)
 
 # What is it:
