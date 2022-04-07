@@ -31,9 +31,8 @@ Because nobody has done such thing yet. I have always wanted a simple-looking, c
 # Image Gallery
 (subject to change as design alters)
 <div style="display: flex;">
-<img src="images/case.jpeg" style="width: 33%; height: auto">
-<img src="images/pcb.jpeg" style="width: 33%; height: auto">
-<img src="images/caseWpcb.jpeg" style="width: 33%; height: auto">
+<img src="images/v1_1_render.jpg" style="width: 49.9%; height: auto">
+<img src="images/pcb.jpeg" style="width: 49.9%; height: auto">
 </div>
 
 # Build Guide
@@ -59,8 +58,13 @@ Because nobody has done such thing yet. I have always wanted a simple-looking, c
 2. Solder it all together
    - Solder on the hotswap sockets and the nice!nano. This will take a while (perhaps an hour or two) depending on your soldering experience. Note that if you choose not to use SMT assembly on the PCB, the diodes will be very hard to solder. I socketed the nice!nano using Swiss machine pins off of Adafruit.
 3. Build and flash the firmware onto the nice!nano
+<<<<<<< Updated upstream
    - Build the firmware and put the nice!nano into bootloader mode (short GND and RST twice in rapid succession). Drag the UF2 file into the nice!nano "storage device". The firmware can be made with my zmk-config directory.
 4. Laser cut the case
+=======
+   - Build the firmware and put the nice!nano into bootloader mode (short GND and RST twice in rapid succession). Drag the UF2 file into the nice!nano "storage device".
+4. Laser cut the case or 3D print
+>>>>>>> Stashed changes
    - This step is pretty self explanatory. The plate must be 1.5mm (+- 0.1mm). The rest can be any height as long as when everything is stacked together, it is taller than 15mm, and the height between the bottom of the plate and the top of the bottom pice is taller than 12mm.
    - Alternatively, you can 3D print the case. I decided to 3D print because it was faster to prototype.
 5. Put everything together
