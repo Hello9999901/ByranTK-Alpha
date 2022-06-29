@@ -53,6 +53,7 @@ Because nobody has done such thing yet. I have always wanted a simple-looking, c
 
 1. Order all the parts
    - I ordered everything off of JLCPCB, with SMT assembly for the diodes because I'm lazy. The pick and place/bom files are in the bom folder, ready for upload to JLCPCB. It is highly suggested you use SMT assembly because it is extremely cheap and saves a lot of time.
+   - Apparantly, you can also get smt hotswap sockets assembled too, though I did not do that.
 2. Solder it all together
    - Solder on the hotswap sockets and the nice!nano. This will take a while (perhaps an hour or two) depending on your soldering experience. Note that if you choose not to use SMT assembly on the PCB, the diodes will be very hard to solder. I socketed the nice!nano using Swiss machine pins off of Adafruit.
 3. Build and flash the firmware onto the nice!nano
